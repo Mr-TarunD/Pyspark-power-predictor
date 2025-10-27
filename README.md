@@ -5,6 +5,7 @@ This is a Streamlit web application that uses **Apache PySpark** to perform time
 
 ![image alt](https://github.com/Mr-TarunD/Pyspark-power-predictor/blob/1c88be7a8e21fe1c04ca9398720975d67d2ae854/Screenshot%202025-10-28%20004857.png)
 
+![image alt](https://github.com/Mr-TarunD/Pyspark-power-predictor/blob/a908ac55899377b4c131efc8bc42b3b4786790e5/Screenshot%202025-10-28%20005341.png)
 ---
 
 ## 🚀 Features
