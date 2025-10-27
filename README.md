@@ -3,8 +3,7 @@
 
 This is a Streamlit web application that uses **Apache PySpark** to perform time-series analysis and predict household power consumption. The app loads a large dataset, performs feature engineering, trains a **Random Forest Regressor** model using PySpark's MLlib, and visualizes the actual vs. predicted results in an interactive chart.
 
-![App Screenshot](demo.png)
-*(Note: You should replace `demo.png` with a screenshot of your running application.)*
+
 
 ---
 
@@ -50,8 +49,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Mr-TarunD/Pyspark-power-predictor.git
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -62,6 +60,7 @@ Follow these instructions to set up and run the project on your local machine.
     # Activate it
     # Windows (PowerShell)
     .\venv\Scripts\activate
+    
     # macOS/Linux
     source venv/bin/activate
     ```
