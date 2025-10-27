@@ -3,7 +3,7 @@
 
 This is a Streamlit web application that uses **Apache PySpark** to perform time-series analysis and predict household power consumption. The app loads a large dataset, performs feature engineering, trains a **Random Forest Regressor** model using PySpark's MLlib, and visualizes the actual vs. predicted results in an interactive chart.
 
-
+![image alt](https://github.com/Mr-TarunD/Pyspark-power-predictor/blob/1c88be7a8e21fe1c04ca9398720975d67d2ae854/Screenshot%202025-10-28%20004857.png)
 
 ---
 
