@@ -69,10 +69,8 @@ Follow these instructions to set up and run the project on your local machine.
 3.  **Create a `requirements.txt` file:**
     Create a file named `requirements.txt` in your project's root directory and add the following libraries:
     ```
-    streamlit
-    pyspark
-    pandas
-    plotly
+    pip install streamlit pyspark pandas plotly
+    
     ```
 
 4.  **Install the dependencies:**
